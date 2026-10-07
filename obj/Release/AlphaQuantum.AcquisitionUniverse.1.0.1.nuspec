@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AlphaQuantum.AcquisitionUniverse</id>
+    <version>1.0.1</version>
+    <authors>Alpha Quantum</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://www.acquisitionuniverse.com/</projectUrl>
+    <description>.NET toolkit for acquisition target screening: thesis briefs, a weighted composite that zeroes out group-owned targets, ranking and signal coverage.</description>
+    <tags>m-and-a acquisition private-equity search-fund deal-sourcing target-screening</tags>
+    <repository type="git" url="https://github.com/explainableaixai/acquisitionuniverse-dotnet" commit="f943612f1db28051f0961ea212ef8e8a5ddb576d" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/root/seo/wave3/acquisitionuniverse/dotnet/bin/Release/net8.0/AcquisitionUniverse.dll" target="lib/net8.0/AcquisitionUniverse.dll" />
+    <file src="/root/seo/wave3/acquisitionuniverse/dotnet/README.md" target="/README.md" />
+    <file src="/root/seo/wave3/acquisitionuniverse/dotnet/LICENSE" target="/LICENSE" />
+  </files>
+</package>

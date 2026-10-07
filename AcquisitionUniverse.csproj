@@ -4,7 +4,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>AlphaQuantum.AcquisitionUniverse</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Alpha Quantum</Authors>
     <Description>.NET toolkit for acquisition target screening: thesis briefs, a weighted composite that zeroes out group-owned targets, ranking and signal coverage.</Description>
     <PackageProjectUrl>https://www.acquisitionuniverse.com</PackageProjectUrl>
